@@ -12,3 +12,5 @@ fields:
       format: markdown
   label: Testing
   description: This is a test string thing
+pages:
+- testing/testing2/Main.md
